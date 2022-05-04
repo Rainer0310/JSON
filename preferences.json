@@ -1,9 +1,9 @@
 {
-"s1":"Любимый фильм: ROBOCOP",
-"s2":"Любимый сериал: Gtargate",
-"s3":"Любимая игра: MORTAL KOMBAT",
-"s4":"Любимая еда: Пицца",
-"s5":"Любимая пора года: поздняя весна",
-"s6":"Страна, которую я хотел бы посетить: Германия"
+"fav_mov":"ROBOCOP",
+"fav_ser":"Gtargate",
+"fav_game":"MORTAL KOMBAT",
+"fav_food":"Pizza",
+"fav_season":"Spring",
+"count":"Germany"
 }
 
