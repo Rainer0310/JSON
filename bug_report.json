@@ -1,11 +1,11 @@
 {
-"s1":"Не работает кнопка отправки заказа.",
-"Как воспроизвести?",
-"1. Открыть сайт.",
-"2. Нажать по ссылке.",
-"3. Пролистать до поля.",
-"4. Ввести значение в поле.",
-"5. Попытаться нажать кнопку отправки заказа.",
-"Фактический результат: кнопка неактивна.",
-"Ожидаемый результат: кнопка нажимается, можно сделать заказ."
+"progect":"Progect: Progect X"
+"assigned":"Assigned To: Oleg Butsia"
+"priority": "Priority: Medium"
+"found":"Found in: Chrome"
+"version":"Version: 2.0"
+"tittle":"Tittle: PM Helper - Incorrect project state in Project viewing mode"
+"discription": "Discription: 1. Choose a project and click Edit button 2. Change the status of the project 3. Click Save changes 4. Click Project Viewing page" 
+"result":"Result: the status is not renewed"
+"Experted_result":"Expected result: the status is renewed"
 }
