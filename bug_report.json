@@ -1,11 +1,16 @@
 {
-"progect":"Progect: Progect X"
-"assigned":"Assigned To: Oleg Butsia"
-"priority": "Priority: Medium"
-"found":"Found in: Chrome"
-"version":"Version: 2.0"
-"tittle":"Tittle: PM Helper - Incorrect project state in Project viewing mode"
-"discription": "Discription: 1. Choose a project and click Edit button 2. Change the status of the project 3. Click Save changes 4. Click Project Viewing page" 
-"result":"Result: the status is not renewed"
-"Experted_result":"Expected result: the status is renewed"
+"nikname":"@cutopp",
+"bug_id":1,
+"tittle":"Не происходит вход в кабинет пользователя в приложении интернет-магазина",
+"severity":"Critical",
+"priority":"Major",
+"environment":"POCO M4 Pro, Android 11",
+"precondition":"Открыть приложение",
+"str"{
+  "step_1":"Веести логин",
+  "step_2":"Ввести пароль",
+  "step_2":"Нажать кнопку Авторизироваться",
+}
+"ar":"Поля ввода логина и пароля очищаются. Вход в кабинет не произошел",
+"er":"Происходит вход в кабинет пользователя"
 }
